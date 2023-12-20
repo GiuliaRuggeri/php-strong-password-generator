@@ -1,4 +1,4 @@
-<?php 
+<?php /*
 
 include "functions.php";
 
@@ -12,8 +12,8 @@ echo generatePassword($passLength, $letters, $numbers, $symbols, $repeat);
 
 
 
-?>
+*/?>
 
-<div>
+<!-- <div>
   <a href="form.php">Return to password generator</a>  
-</div>
+</div> -->
